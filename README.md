@@ -7,7 +7,7 @@ cli for easily building datasets of audio files from google's AudioSet.
 ## Installation
 
 ```bash
-pip install audioset-downloader
+pip install -e .
 ```
 
 note that you'll need to have `ffmpeg` installed on your system.
