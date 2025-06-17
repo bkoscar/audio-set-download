@@ -2,7 +2,7 @@
 
 cli for easily building datasets of audio files from google's AudioSet.
 
-**Update may 2024**: metadata has been extended with number of views, likes, comments, availability
+**Update may 2025**: metadata has been extended with number of views, likes, comments, availability
 
 ## Installation
 
